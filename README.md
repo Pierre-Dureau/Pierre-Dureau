@@ -14,8 +14,7 @@ During this year, we learned to work as a team on several projects:
 - [Printf](https://github.com/Pierre-Dureau/printf)
 - [Simple Shell](https://github.com/Pierre-Dureau/simple_shell)
 - [Sorting Algorithms](https://github.com/Pierre-Dureau/sorting_algorithms)
-<br>
-All the projects for my first full web application: the AirBnB clone:
+- All the projects for my first full web application: the AirBnB clone:
 	- [AirBnB clone - console](https://github.com/Pierre-Dureau/holbertonschool-AirBnB_clone)
 	- [AirBnB clone - web static](https://github.com/Pierre-Dureau/holbertonschool-AirBnB_clone/tree/main/web_static)
 	- [AirBnB clone - MySQL](https://github.com/Pierre-Dureau/holbertonschool-AirBnB_clone_v2/)
