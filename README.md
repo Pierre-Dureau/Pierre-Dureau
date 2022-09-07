@@ -30,7 +30,7 @@ During this year, we learned to work as a team on several projects:
 
 ### Languages and Tools
 </br>
-<code>
+<div>
 <img height="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png">
 <img height="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png">
 <img height="50" src="https://cdn.icon-icons.com/icons2/233/PNG/512/Unity_26208.png">
@@ -40,8 +40,8 @@ During this year, we learned to work as a team on several projects:
 <img height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png">
 <img height="50" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">
 <img height="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png">
+</div>
 
-</code>
 <div align="center">
 	<img width="252" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-Dureau&layout=compact&langs_count=8&theme=codeSTACKr&border_color=ffffff" alt="most used language" />
 </div>
